@@ -1,0 +1,15 @@
+export const EMAIL_CHANGED = 'email_changed'
+export const RESET_PASSWORD_EMAIL_CHANGED = 'reset_password_email_changed'
+export const PASSWORD_CHANGED = 'password_changed'
+export const PASSWORD_CONFIRM_CHANGED = 'password_confirm_changed'
+
+export const INITIATE_GOOGLE_LOGGED_IN = 'initiate_google_logged_in'
+export const INITIATE_FACEBOOK_LOGGED_IN = 'initiate_facebook_logged_in'
+export const LOGIN_STARTED = 'login_started'
+export const LOGIN_SUCCESS = 'login_success'
+export const GOOGLE_LOGIN_SUCCESS = 'google_login_success'
+export const FACEBOOK_LOGIN_SUCCESS = 'facebook_login_success'
+export const LOGIN_FAIL = 'login_fail'
+export const SIGN_OUT = 'sign_out'
+
+export const GET_AVATAR = 'get_avatar'
